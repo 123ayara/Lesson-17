@@ -7,3 +7,5 @@ for i in range(10):
         print("fizz")
     elif i%3==0:
         print("buzz")
+    else:
+        print(x)
